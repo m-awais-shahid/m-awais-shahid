@@ -113,11 +113,11 @@
 ---
 
 <div style="display: flex;">
-  <a style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="width: 100%; height: 200px;">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="width: 400px; height: 200px;">
   </a>
-  <a style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" style="width: 100%; height: 200px;">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" style="width: 400px; height: 200px;">
   </a>
 </div>
 
