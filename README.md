@@ -126,8 +126,4 @@
 <div align="center" style="margin-top: 20px;">
   <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" /></a>
 </div>
-</div>
 
-<div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" style="margin-top: 20px;"/></a>
-</div>
