@@ -112,28 +112,18 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <!-- GitHub Stats -->
+<div style="display: flex; justify-content: center; gap: 10px;">
   <a>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" 
-      alt="GitHub Stats" 
-      style="width: 435px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="width: 400px; height: 200px;">
   </a>
-  <!-- Most Used Languages -->
   <a>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
-      alt="Most Used Languages" 
-      style="width: 360px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" style="width: 400px; height: 200px;">
   </a>
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg" alt="Footer" style="width: 100%;"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/JeshadKhan/jeshadkhan/main/.github/images/footer.svg"/></a>
 </div>
-
 
 
 
