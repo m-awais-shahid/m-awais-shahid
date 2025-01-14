@@ -112,7 +112,7 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;gap: 20px; justify-content: center; align-items: center;">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" 
          style="width: 420px; height: 180px; border-radius: 8px;">
