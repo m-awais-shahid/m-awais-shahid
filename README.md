@@ -113,14 +113,14 @@
 ---
 
 <div style="clear: both; margin-top: 20px;">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a>
       <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" 
-           style="width: 435px; height: 200px;">
+           style="max-width: 100%; width: 435px; height: auto;">
     </a>
     <a>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
-           style="width: 435px; height: 200px;">
+           style="max-width: 100%; width: 435px; height: auto;">
     </a>
   </div>
 </div>
