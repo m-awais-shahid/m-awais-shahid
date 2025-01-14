@@ -115,13 +115,14 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%;">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" 
-         style="max-width: 48%; height: 250px; object-fit: contain; border: 1px solid #ffffff; border-radius: 8px;">
+         style="max-width: 48%; height: 260px; object-fit: contain; border: 1px solid #ffffff; border-radius: 8px;">
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
-         style="max-width: 48%; height: 250px; object-fit: contain; border: 1px solid #ffffff; border-radius: 8px;">
+         style="max-width: 48%; height: 260px; object-fit: contain; border: 1px solid #ffffff; border-radius: 8px; padding: 5px;">
   </a>
 </div>
+
 
 
 
