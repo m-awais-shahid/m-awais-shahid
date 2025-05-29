@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Eventtra (An Event Tracking Android App)
 - 🌱 I’m currently learning Python
-- 💬 Ask me about **Data Science, Web Development and Esports**
+- 💬 Ask me about **Data Science and Web Development**
 - 🥅 Goals: Become a Product Engineer
 - 🎮 When I’m not working, I play video games
 - ⚡ Funfact: I love to play gaming tournaments
