@@ -118,7 +118,7 @@
          style="width: 420px; height: 180px; border-radius: 8px;">
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahid-shahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-awais-shahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
          style="width: 420px; height: 180px; border-radius: 8px;">
   </a>
 </div>
