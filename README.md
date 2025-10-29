@@ -24,28 +24,28 @@
   <a href="https://www.linkedin.com/in/awais-shahid/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/waqarshahid/" height="30" width="40" />
+      alt="https://github.com/m-awais-shahid" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/21503108/awais-shahid"
     target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="https://stackoverflow.com/users/5979693/muhammad-waqar-shahid" height="30" width="40" />
+      alt="https://github.com/m-awais-shahid" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/M.Awais.Shahid/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/m.waqar.shahid" height="30" width="40" />
+      alt="https://github.com/m-awais-shahid" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/m.awais.shahid/" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/m_waqar_shahid/" height="30" width="40" />
+      alt="https://github.com/m-awais-shahid" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/UC2EgVRnDNNtQ_NXboBy-T2w" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/channel/ucqwtxlha_9he2hg7ageiirw" height="30" width="40" />
+      alt="(https://www.youtube.com/)" height="30" width="40" />
   </a>
 </p>
 
@@ -114,11 +114,11 @@
 
 <div style="display: flex;gap: 20px; justify-content: center; align-items: center;">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" 
+    <img src="https://github-readme-stats.vercel.app/api?username=m-awais-shahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" 
          style="width: 420px; height: 180px; border-radius: 8px;">
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuXy666&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahid-shahid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=10&layout=compact" 
          style="width: 420px; height: 180px; border-radius: 8px;">
   </a>
 </div>
